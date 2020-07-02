@@ -26,4 +26,4 @@ Setup
 
 
 UML
-https://docs.google.com/spreadsheets/d/1PTpN-8URlsfOwXzTnWDhDTY9bRXwTOpDRhXdzpesKwY/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1CNzH1gqGFqdVrcW1C2SnGe06eoTjJSF7pyZxpyNPaJg/edit#gid=0
